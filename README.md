@@ -1,4 +1,4 @@
-# Electrochemical Performance of Magnesium-Lithium Alloys
+# Research on Machine Learning-Assisted Prediction of Electrochemical Performance of Magnesium-Lithium Alloys
 
 This repository contains the datasets and figures supporting the manuscript submitted to *Materials Letters*.
 
